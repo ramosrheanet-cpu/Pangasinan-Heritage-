@@ -9,6 +9,7 @@ const heritageData = [
     image: '/Pangasinan-Heritage-/images/hundred-islands.jpg',
     featured: true
   },
+
   {
     id: 'bolinao',
     title: 'Bolinao',
@@ -19,6 +20,7 @@ const heritageData = [
     image: '/Pangasinan-Heritage-/images/bolinao-church.jpg',
     featured: true
   },
+
   {
     id: 'lingayen',
     title: 'Lingayen',
@@ -29,6 +31,7 @@ const heritageData = [
     image: '/Pangasinan-Heritage-/images/lingayen-capitol.jpg',
     featured: true
   },
+
   {
     id: 'manaoag',
     title: 'Manaoag',
