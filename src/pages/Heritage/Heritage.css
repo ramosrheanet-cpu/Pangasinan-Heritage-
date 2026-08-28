@@ -1,0 +1,13 @@
+.heritage-intro {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.heritage-intro p {
+  max-width: 700px;
+  margin: 20px auto 30px;
+
+  color: #4F6652;
+
+  line-height: 1.7;
+}

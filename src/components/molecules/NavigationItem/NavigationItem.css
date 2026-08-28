@@ -1,0 +1,12 @@
+.navigation-item {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  padding: 10px 14px;
+  border-radius: 999px;
+}
+
+.navigation-item:hover,
+.navigation-item--active {
+  background: rgba(255, 255, 255, 0.2);
+}

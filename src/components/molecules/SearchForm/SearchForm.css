@@ -1,0 +1,29 @@
+.search-form {
+  display: flex;
+  gap: 10px;
+  width: min(700px, 100%);
+  margin: auto;
+}
+
+.search-form input {
+  flex: 1;
+  min-height: 48px;
+  padding: 0 18px;
+  border: 2px solid #A5D6A7;
+  border-radius: 999px;
+  outline: none;
+}
+
+.search-form input:focus {
+  border-color: #1B5E20;
+}
+
+@media (max-width: 560px) {
+  .search-form {
+    flex-direction: column;
+  }
+
+  .search-form button {
+    width: 100%;
+  }
+}
